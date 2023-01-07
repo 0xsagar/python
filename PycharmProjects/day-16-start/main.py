@@ -114,5 +114,6 @@ tim = Turtle()
 #         tim.circle(100)
 #         tim.right(size_of_gap)
 # draw_spirograph(5)
-screen=turtle.Screen()
+screen = turtle.Screen()
 screen.exitonclick()
+
