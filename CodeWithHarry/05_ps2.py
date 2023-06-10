@@ -1,10 +1,10 @@
 # Q1
-# Ans - M1
+# Ans - Method1
 # a = 25
 # b = 11
 # print("The sum of a and b is ", a + b)
 
-#Ans - M2
+#Ans - Method2
 # a = input("Enter a: ")
 # a = int(a)
 # b = input("Enter b: ")

@@ -19,3 +19,11 @@
 
 # l1.remove(19)  # deletes a particular number from the list
 # print(l1)
+
+#SUMMARY
+# l1.sort() - Sorts the list
+# l1.reverse() - Reverses the list
+# l1.append(x) - adds element x at the end of the list
+# l1.insert(2, 544) - adds element 544 at index 2 and shifts the existing elements
+# l1.pop(2) - deletes the element at index 2
+# l1.remove(21) - deletes the element 21 if present in the list
