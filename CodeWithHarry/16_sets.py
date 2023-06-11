@@ -24,8 +24,16 @@ print(c)
 #NOTE: We cannot change items inside a set
 #NOTE: We cannot change the set by adding the same item multiple times as it'll only be counted once
 
-print(len(c))
+print("length: ", len(c))
 
 c.remove(6) #Removes 6 from the set
-c.remove(12) #Throws an error as 12 is not available in the set
+# c.remove(12) #Throws an error as 12 is not available in the set
 print(c)
+
+
+c.pop() #removes any element from the set
+print(c)
+
+c.clear() # Empties the set
+print(c)
+
