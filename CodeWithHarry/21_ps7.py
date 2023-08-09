@@ -58,12 +58,6 @@
 #     print("*" * (2*x+1), end = "")
 #     print(" " * (number - x - 1))
 
-# Q9: Write empty box pattern
-number = int(input("Give a number: "))
-for i in range(number):
-    for j in range(number):
-        print("x", end="")
-    print("")
 
 
 
