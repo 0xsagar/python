@@ -1,0 +1,7 @@
+1
+1
+1
+1
+02/22 08:08:08 INFO :........ Python has stopped working
+1
+03/22 08:08:08 INFO :........ Python has stopped working
